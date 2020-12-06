@@ -1,0 +1,3 @@
+C:\Users\Dell\source\repos\8.1\Debug\8.1.exe
+C:\Users\Dell\source\repos\8.1\Debug\8.1.pdb
+C:\Users\Dell\Desktop\Debug\8.1.pdb

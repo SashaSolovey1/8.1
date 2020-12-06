@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\Dell\source\repos\8.1\UnitTest1\UnitTest1.cpp(14,1): warning C4305: 'initializing': truncation from 'int' to 'char'
+C:\Users\Dell\source\repos\8.1\UnitTest1\UnitTest1.cpp(14,24): warning C4309: 'initializing': truncation of constant value
+     Creating library C:\Users\Dell\Desktop\Debug\UnitTest1.lib and object C:\Users\Dell\Desktop\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Dell\Desktop\Debug\UnitTest1.dll
